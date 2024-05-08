@@ -1852,7 +1852,7 @@ We can see all necessary information to contact the apiserver manually:
 ...
 ```
 
-Let's encode it and write it into the requested location:
+Let's decode it and write it into the requested location:
 
 ```sh
 ➜ echo cEVuRXRSYVRpT24tdEVzVGVSCg== | base64 -d
